@@ -1,6 +1,6 @@
 # 🚀 Fleet Performance & Reliability Command Center (Power BI)
 
-![Dashboard Preview](Logistic Fleets Performance Analysis.png)
+![Dashboard Preview]Logistic Fleets Performance Analysis.png
 
 ## 📌 Project Overview
 This project is a custom-engineered, dark-mode Power BI dashboard designed to act as an operational Command Center for fleet managers. Moving away from standard native visuals, this build focuses on a premium SaaS-style UI/UX, prioritizing visual hierarchy and immediate risk identification.
